@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+ul{
+    list-style: none;
+    background: #A5DA64;
+    margin: 0;
+}
+a{
+    display: inline-block;
+    padding: 20px;
+}
+h1 {
+     font-family: Rock Salt;
+}
+a:hover {
+      background: #00ffa3;
+  transition:.5s;
+}
+img {
+    height: 400px;
+    width: 400px;
+    margin: 40px auto;
+    display: block;
+
+    border: 50px solid transparent;
+    border-image: url("http://azuarondesign.com/images/clipart-document-borders-4.jpg") 50 round;
+}
+
+img, iframe {
+     height: 400px;
+    width: 400px;
+    margin: 40px auto;
+    display: block;
+
+    border: 50px solid transparent;
+    border-image: url("https://68.media.tumblr.com/3c57ba04f481cf7afedcbe057b7fdef4/tumblr_mzkiasZIU11tpaq1wo1_500.jpg") 50 round; 
+}
+
+div {
+    width: 49%;
+    display: inline-block;
+}
+
+
